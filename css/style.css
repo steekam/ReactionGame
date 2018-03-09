@@ -1,0 +1,33 @@
+#shape {
+	display: none;
+	position: relative;
+
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+
+}
+
+p {
+	font-size: 22px;
+}
+
+#top {
+	height: 60px;
+	text-align: center;
+	background-color: #205b60;
+}
+h1 {
+	margin: 0px;
+	padding-top: 5px;
+	color: #CCC;
+}
+#instructions {
+	margin:5px 0px 0px 10px;
+	width: 400px;
+	border: 2px #eff4f4 solid;
+	background-color: #e8eded;
+}
